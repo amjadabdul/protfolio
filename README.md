@@ -1,5 +1,4 @@
-##Udacity Front-End Web Developer Nanodegree program
-
+# Udacity Front-End Web Developer Nanodegree program
 
 **Project 1. Portfolio site**
 
